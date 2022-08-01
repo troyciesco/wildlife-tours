@@ -53,13 +53,12 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		justify-content: center;
 		width: 100%;
 		height: 100%;
 		padding: 50px;
 	}
 	.logo {
-		height: 80%;
+		height: 50%;
 		max-width: 80%;
 	}
 
